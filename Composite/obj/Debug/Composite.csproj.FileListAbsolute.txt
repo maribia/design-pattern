@@ -1,0 +1,7 @@
+D:\Study\MyProjects\DesignPattern\Composite\bin\Debug\Composite.dll
+D:\Study\MyProjects\DesignPattern\Composite\bin\Debug\Composite.pdb
+D:\Study\MyProjects\DesignPattern\Composite\bin\Debug\nunit.framework.dll
+D:\Study\MyProjects\DesignPattern\Composite\bin\Debug\nunit.framework.xml
+D:\Study\MyProjects\DesignPattern\Composite\obj\Debug\Composite.csprojResolveAssemblyReference.cache
+D:\Study\MyProjects\DesignPattern\Composite\obj\Debug\Composite.dll
+D:\Study\MyProjects\DesignPattern\Composite\obj\Debug\Composite.pdb

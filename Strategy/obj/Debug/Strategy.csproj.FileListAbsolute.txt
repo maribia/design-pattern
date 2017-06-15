@@ -1,0 +1,7 @@
+D:\Study\MyProjects\DesignPattern\Strategy\bin\Debug\Strategy.dll
+D:\Study\MyProjects\DesignPattern\Strategy\bin\Debug\Strategy.pdb
+D:\Study\MyProjects\DesignPattern\Strategy\bin\Debug\nunit.framework.dll
+D:\Study\MyProjects\DesignPattern\Strategy\bin\Debug\nunit.framework.xml
+D:\Study\MyProjects\DesignPattern\Strategy\obj\Debug\Strategy.csprojResolveAssemblyReference.cache
+D:\Study\MyProjects\DesignPattern\Strategy\obj\Debug\Strategy.dll
+D:\Study\MyProjects\DesignPattern\Strategy\obj\Debug\Strategy.pdb

@@ -1,0 +1,7 @@
+D:\Study\MyProjects\DesignPattern\AbstractFactory\bin\Debug\AbstractFactory.dll
+D:\Study\MyProjects\DesignPattern\AbstractFactory\bin\Debug\AbstractFactory.pdb
+D:\Study\MyProjects\DesignPattern\AbstractFactory\bin\Debug\nunit.framework.dll
+D:\Study\MyProjects\DesignPattern\AbstractFactory\bin\Debug\nunit.framework.xml
+D:\Study\MyProjects\DesignPattern\AbstractFactory\obj\Debug\AbstractFactory.csprojResolveAssemblyReference.cache
+D:\Study\MyProjects\DesignPattern\AbstractFactory\obj\Debug\AbstractFactory.dll
+D:\Study\MyProjects\DesignPattern\AbstractFactory\obj\Debug\AbstractFactory.pdb

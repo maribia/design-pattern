@@ -1,0 +1,7 @@
+D:\Study\MyProjects\DesignPattern\Adapter\obj\Debug\Adapter.csprojResolveAssemblyReference.cache
+D:\Study\MyProjects\DesignPattern\Adapter\bin\Debug\Adapter.dll
+D:\Study\MyProjects\DesignPattern\Adapter\bin\Debug\Adapter.pdb
+D:\Study\MyProjects\DesignPattern\Adapter\bin\Debug\nunit.framework.dll
+D:\Study\MyProjects\DesignPattern\Adapter\bin\Debug\nunit.framework.xml
+D:\Study\MyProjects\DesignPattern\Adapter\obj\Debug\Adapter.dll
+D:\Study\MyProjects\DesignPattern\Adapter\obj\Debug\Adapter.pdb

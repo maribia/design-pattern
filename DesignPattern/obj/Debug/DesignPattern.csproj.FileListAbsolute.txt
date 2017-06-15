@@ -1,0 +1,8 @@
+D:\Study\MyProjects\DesignPattern\DesignPattern\bin\Debug\DesignPattern.exe.config
+D:\Study\MyProjects\DesignPattern\DesignPattern\bin\Debug\DesignPattern.exe
+D:\Study\MyProjects\DesignPattern\DesignPattern\bin\Debug\DesignPattern.pdb
+D:\Study\MyProjects\DesignPattern\DesignPattern\bin\Debug\nunit.framework.dll
+D:\Study\MyProjects\DesignPattern\DesignPattern\bin\Debug\nunit.framework.xml
+D:\Study\MyProjects\DesignPattern\DesignPattern\obj\Debug\DesignPattern.csprojResolveAssemblyReference.cache
+D:\Study\MyProjects\DesignPattern\DesignPattern\obj\Debug\DesignPattern.exe
+D:\Study\MyProjects\DesignPattern\DesignPattern\obj\Debug\DesignPattern.pdb
